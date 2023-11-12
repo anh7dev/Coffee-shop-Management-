@@ -1,0 +1,180 @@
+D:\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe.config
+D:\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe
+D:\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.pdb
+D:\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.AssemblyReference.cache
+D:\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.SuggestedBindingRedirects.cache
+D:\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fLogin.resources
+D:\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Properties.Resources.resources
+D:\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.GenerateResource.cache
+D:\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.CoreCompileInputs.cache
+D:\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.exe
+D:\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.pdb
+D:\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fTableManager.resources
+D:\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fAccountProfile.resources
+D:\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fAdmin.resources
+C:\Users\HP\Desktop\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe.config
+C:\Users\HP\Desktop\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe
+C:\Users\HP\Desktop\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.pdb
+C:\Users\HP\Desktop\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fAccountProfile.resources
+C:\Users\HP\Desktop\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fAdmin.resources
+C:\Users\HP\Desktop\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fLogin.resources
+C:\Users\HP\Desktop\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fTableManager.resources
+C:\Users\HP\Desktop\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Properties.Resources.resources
+C:\Users\HP\Desktop\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.exe
+C:\Users\HP\Desktop\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.pdb
+D:\New folder\LapTrinhQuanLy\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe.config
+D:\New folder\LapTrinhQuanLy\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe
+D:\New folder\LapTrinhQuanLy\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.pdb
+D:\New folder\LapTrinhQuanLy\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.AssemblyReference.cache
+D:\New folder\LapTrinhQuanLy\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.SuggestedBindingRedirects.cache
+D:\New folder\LapTrinhQuanLy\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fAccountProfile.resources
+D:\New folder\LapTrinhQuanLy\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fAdmin.resources
+D:\New folder\LapTrinhQuanLy\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fLogin.resources
+D:\New folder\LapTrinhQuanLy\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fTableManager.resources
+D:\New folder\LapTrinhQuanLy\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Properties.Resources.resources
+D:\New folder\LapTrinhQuanLy\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.GenerateResource.cache
+D:\New folder\LapTrinhQuanLy\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.CoreCompileInputs.cache
+D:\New folder\LapTrinhQuanLy\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.exe
+D:\New folder\LapTrinhQuanLy\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.pdb
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe.config
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.pdb
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fAccountProfile.resources
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fAdmin.resources
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fLogin.resources
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fTableManager.resources
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.exe
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.pdb
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\EnvDTE.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\stdole.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\LapTrinhQuanLy\DuAn\MaNguon\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe.config
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.pdb
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\EnvDTE.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\stdole.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fAccountProfile.resources
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fAdmin.resources
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fLogin.resources
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fTableManager.resources
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.exe
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.pdb
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fHelpBanHang.resources
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fHelpChuyenGopBan.resources
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fHelpBaoCao.resources
+C:\Users\nguye\OneDrive\Không trên máy tính này\Máy tính\Đồ án Lập trình quản lý DONE\SOURCE CODE\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.fHelpThanhToan.resources
